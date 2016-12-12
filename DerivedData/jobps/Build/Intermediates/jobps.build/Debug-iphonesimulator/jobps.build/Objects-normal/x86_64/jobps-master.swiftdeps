@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "a54dcf5a0923c89ce88cdd38d22cdb6c"
+build_time: [534805360, 448914000]
+inputs:
+  "/Users/pramonowang/Desktop/jobps/jobps/PostViewController.swift": [534803730, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/QuestionsTableViewController.swift": [534805217, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/Info.swift": [534802278, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/ForumTableViewController.swift": [534805360, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/ViewController.swift": [534800449, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/AppDelegate.swift": [534801685, 0]
+  "/Users/pramonowang/Desktop/jobps/DetailViewController.swift": [534803219, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/ForumsTableViewCell.swift": [534805360, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/company.swift": [534790390, 0]

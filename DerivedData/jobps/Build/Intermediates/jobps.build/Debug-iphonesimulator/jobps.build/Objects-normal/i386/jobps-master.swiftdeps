@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "df0172cd87e1ce52c4f8e0c8c376eb6b"
+build_time: [534786257, 499412000]
+inputs:
+  "/Users/pramonowang/Desktop/jobps/jobps/ViewController.swift": [534786229, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/AppDelegate.swift": [534786229, 0]

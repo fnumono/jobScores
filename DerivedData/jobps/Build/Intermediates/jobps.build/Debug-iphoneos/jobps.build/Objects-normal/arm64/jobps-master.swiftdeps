@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "52821db90da4eb657985d8f00555d568"
+build_time: [534786468, 433389000]
+inputs:
+  "/Users/pramonowang/Desktop/jobps/jobps/ForumTableViewController.swift": !dirty [534786467, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/ViewController.swift": !dirty [534786229, 0]
+  "/Users/pramonowang/Desktop/jobps/jobps/AppDelegate.swift": !dirty [534786229, 0]

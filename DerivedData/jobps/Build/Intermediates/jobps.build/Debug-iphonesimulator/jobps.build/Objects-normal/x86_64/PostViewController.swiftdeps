@@ -1,0 +1,394 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PostViewController"
+provides-nominal:
+- "C5jobps18PostViewController"
+provides-member:
+- ["C5jobps18PostViewController", ""]
+provides-dynamic-lookup:
+- "postButton"
+- "segmentControl"
+- "didReceiveMemoryWarning"
+- "postButtonAction"
+- "text"
+- "viewDidLoad"
+depends-top-level:
+- "UIViewController"
+- !private "UIColor"
+- !private "/"
+- "UIButton"
+- "PostViewController"
+- "UISegmentedControl"
+- "AssignmentPrecedence"
+- "UITextField"
+- !private "BooleanLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "borderColor"]
+- !private ["Ps9AnyObject", "borderWidth"]
+- !private ["Ps9AnyObject", "cgColor"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "dismiss"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "layer"]
+- ["Ps9AnyObject", "postButton"]
+- ["Ps9AnyObject", "postButtonAction"]
+- ["Ps9AnyObject", "segmentControl"]
+- ["Ps9AnyObject", "text"]
+- !private ["Ps9AnyObject", "tintColor"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- !private ["CSo7CALayer", "borderColor"]
+- !private ["CSo7CALayer", "borderWidth"]
+- ["CSo7CALayer", "deinit"]
+- !private ["PSo15CALayerDelegate", "layer"]
+- !private ["PSo15CALayerDelegate", "tintColor"]
+- !private ["PSo13CAMediaTiming", "borderColor"]
+- !private ["PSo13CAMediaTiming", "borderWidth"]
+- ["CSo7CGColor", "deinit"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["Ps7CVarArg", "UIColor"]
+- !private ["Ps7CVarArg", "borderColor"]
+- !private ["Ps7CVarArg", "borderWidth"]
+- !private ["Ps7CVarArg", "cgColor"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "dismiss"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "layer"]
+- ["Ps7CVarArg", "postButton"]
+- ["Ps7CVarArg", "postButtonAction"]
+- ["Ps7CVarArg", "segmentControl"]
+- ["Ps7CVarArg", "text"]
+- !private ["Ps7CVarArg", "tintColor"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "borderColor"]
+- !private ["Ps28CustomDebugStringConvertible", "borderWidth"]
+- !private ["Ps28CustomDebugStringConvertible", "cgColor"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "dismiss"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- ["Ps28CustomDebugStringConvertible", "postButton"]
+- ["Ps28CustomDebugStringConvertible", "postButtonAction"]
+- ["Ps28CustomDebugStringConvertible", "segmentControl"]
+- ["Ps28CustomDebugStringConvertible", "text"]
+- !private ["Ps28CustomDebugStringConvertible", "tintColor"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "borderColor"]
+- !private ["Ps23CustomStringConvertible", "borderWidth"]
+- !private ["Ps23CustomStringConvertible", "cgColor"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "dismiss"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- ["Ps23CustomStringConvertible", "postButton"]
+- ["Ps23CustomStringConvertible", "postButtonAction"]
+- ["Ps23CustomStringConvertible", "segmentControl"]
+- ["Ps23CustomStringConvertible", "text"]
+- !private ["Ps23CustomStringConvertible", "tintColor"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "borderColor"]
+- !private ["Ps9Equatable", "borderWidth"]
+- !private ["Ps9Equatable", "cgColor"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "dismiss"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "layer"]
+- ["Ps9Equatable", "postButton"]
+- ["Ps9Equatable", "postButtonAction"]
+- ["Ps9Equatable", "segmentControl"]
+- ["Ps9Equatable", "text"]
+- !private ["Ps9Equatable", "tintColor"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "borderColor"]
+- !private ["Ps8Hashable", "borderWidth"]
+- !private ["Ps8Hashable", "cgColor"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "dismiss"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "layer"]
+- ["Ps8Hashable", "postButton"]
+- ["Ps8Hashable", "postButtonAction"]
+- ["Ps8Hashable", "segmentControl"]
+- ["Ps8Hashable", "text"]
+- !private ["Ps8Hashable", "tintColor"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "borderColor"]
+- !private ["PSo8NSCoding", "borderWidth"]
+- !private ["PSo8NSCoding", "cgColor"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "dismiss"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "layer"]
+- ["PSo8NSCoding", "postButton"]
+- ["PSo8NSCoding", "postButtonAction"]
+- ["PSo8NSCoding", "segmentControl"]
+- ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "tintColor"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "cgColor"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "UIColor"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "dismiss"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "postButton"]
+- ["PSo26NSExtensionRequestHandling", "postButtonAction"]
+- ["PSo26NSExtensionRequestHandling", "segmentControl"]
+- ["PSo26NSExtensionRequestHandling", "text"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UIColor"]
+- ["CSo8NSObject", "UISegmentedControl"]
+- ["CSo8NSObject", "UITextField"]
+- !private ["CSo8NSObject", "borderColor"]
+- !private ["CSo8NSObject", "borderWidth"]
+- !private ["CSo8NSObject", "cgColor"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "dismiss"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "layer"]
+- ["CSo8NSObject", "postButton"]
+- ["CSo8NSObject", "postButtonAction"]
+- ["CSo8NSObject", "segmentControl"]
+- ["CSo8NSObject", "text"]
+- !private ["CSo8NSObject", "tintColor"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "borderColor"]
+- !private ["PSo16NSObjectProtocol", "borderWidth"]
+- !private ["PSo16NSObjectProtocol", "cgColor"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "dismiss"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- ["PSo16NSObjectProtocol", "postButton"]
+- ["PSo16NSObjectProtocol", "postButtonAction"]
+- ["PSo16NSObjectProtocol", "segmentControl"]
+- ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "tintColor"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "cgColor"]
+- !private ["PSo14NSSecureCoding", "init"]
+- ["Sq", "deinit"]
+- ["C5jobps18PostViewController", "UIButton"]
+- !private ["C5jobps18PostViewController", "UIColor"]
+- ["C5jobps18PostViewController", "UISegmentedControl"]
+- ["C5jobps18PostViewController", "UITextField"]
+- ["C5jobps18PostViewController", "deinit"]
+- ["C5jobps18PostViewController", "didReceiveMemoryWarning"]
+- !private ["C5jobps18PostViewController", "dismiss"]
+- ["C5jobps18PostViewController", "init"]
+- ["C5jobps18PostViewController", "postButton"]
+- ["C5jobps18PostViewController", "postButtonAction"]
+- ["C5jobps18PostViewController", "segmentControl"]
+- ["C5jobps18PostViewController", "text"]
+- ["C5jobps18PostViewController", "viewDidLoad"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- !private ["PSo29UIAccessibilityIdentification", "tintColor"]
+- !private ["PSo12UIAppearance", "layer"]
+- !private ["PSo12UIAppearance", "tintColor"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "dismiss"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- ["PSo21UIAppearanceContainer", "postButton"]
+- ["PSo21UIAppearanceContainer", "postButtonAction"]
+- ["PSo21UIAppearanceContainer", "segmentControl"]
+- ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "tintColor"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "layer"]
+- !private ["CSo7UIColor", "cgColor"]
+- ["CSo7UIColor", "deinit"]
+- !private ["CSo7UIColor", "init"]
+- !private ["PSo18UIContentContainer", "UIColor"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "dismiss"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "postButton"]
+- ["PSo18UIContentContainer", "postButtonAction"]
+- ["PSo18UIContentContainer", "segmentControl"]
+- ["PSo18UIContentContainer", "text"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "layer"]
+- !private ["CSo9UIControl", "tintColor"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- !private ["PSo17UICoordinateSpace", "tintColor"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- !private ["PSo13UIDynamicItem", "tintColor"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "dismiss"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- ["PSo18UIFocusEnvironment", "postButton"]
+- ["PSo18UIFocusEnvironment", "postButtonAction"]
+- ["PSo18UIFocusEnvironment", "segmentControl"]
+- ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "tintColor"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "layer"]
+- !private ["PSo11UIFocusItem", "tintColor"]
+- ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UIColor"]
+- ["CSo11UIResponder", "UISegmentedControl"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "dismiss"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- ["CSo11UIResponder", "postButton"]
+- ["CSo11UIResponder", "postButtonAction"]
+- ["CSo11UIResponder", "segmentControl"]
+- ["CSo11UIResponder", "text"]
+- !private ["CSo11UIResponder", "tintColor"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "UIColor"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "dismiss"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "layer"]
+- ["PSo30UIResponderStandardEditActions", "postButton"]
+- ["PSo30UIResponderStandardEditActions", "postButtonAction"]
+- ["PSo30UIResponderStandardEditActions", "segmentControl"]
+- ["PSo30UIResponderStandardEditActions", "text"]
+- !private ["PSo30UIResponderStandardEditActions", "tintColor"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["CSo18UISegmentedControl", "layer"]
+- !private ["CSo18UISegmentedControl", "tintColor"]
+- !private ["PSo16UIStateRestoring", "UIColor"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "dismiss"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "postButton"]
+- ["PSo16UIStateRestoring", "postButtonAction"]
+- ["PSo16UIStateRestoring", "segmentControl"]
+- ["PSo16UIStateRestoring", "text"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "dismiss"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- ["PSo18UITraitEnvironment", "postButton"]
+- ["PSo18UITraitEnvironment", "postButtonAction"]
+- ["PSo18UITraitEnvironment", "segmentControl"]
+- ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "tintColor"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "layer"]
+- !private ["CSo6UIView", "tintColor"]
+- ["CSo16UIViewController", "UIButton"]
+- !private ["CSo16UIViewController", "UIColor"]
+- ["CSo16UIViewController", "UISegmentedControl"]
+- ["CSo16UIViewController", "UITextField"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- !private ["CSo16UIViewController", "dismiss"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "postButton"]
+- ["CSo16UIViewController", "postButtonAction"]
+- ["CSo16UIViewController", "segmentControl"]
+- ["CSo16UIViewController", "text"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "layer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "tintColor"]
+- !private ["Ps26_ExpressibleByColorLiteral", "cgColor"]
+- !private ["Ps26_ExpressibleByColorLiteral", "init"]
+- !private ["Ps9_Hashable", "UIColor"]
+- !private ["Ps9_Hashable", "borderColor"]
+- !private ["Ps9_Hashable", "borderWidth"]
+- !private ["Ps9_Hashable", "cgColor"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "dismiss"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "layer"]
+- ["Ps9_Hashable", "postButton"]
+- ["Ps9_Hashable", "postButtonAction"]
+- ["Ps9_Hashable", "segmentControl"]
+- ["Ps9_Hashable", "text"]
+- !private ["Ps9_Hashable", "tintColor"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "CSo7CALayer"
+- !private "PSo15CALayerDelegate"
+- !private "PSo13CAMediaTiming"
+- "CSo7CGColor"
+- "V12CoreGraphics7CGFloat"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "Sq"
+- "C5jobps18PostViewController"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "CSo18UISegmentedControl"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps26_ExpressibleByColorLiteral"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "7af5a73a38bea6681e046ccdc88d49cb"
